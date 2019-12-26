@@ -1,11 +1,7 @@
-# Practise1
-1st commit
+# Practise 1: Personal Portfolio
 
-Working out the proper workflow...
+Django web dev using Python venv
+docker deployment
+kubernetes orchastration 
 
-Design and idea tracking: README.md ... maybe google docs next
-Progress tracker ? Monday.com?
-Idea: Family chat with task integration. like Duo with task tracker 
-database: SQlite + firebase
-Interface: simple chat window, shared screen for task list
-
+Missing license...
